@@ -1,0 +1,11 @@
+{
+  "name": "etdsolutions/requirejs",
+  "description": "Shim repository for RequireJS",
+  "homepage": "http://requirejs.org/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "James Burke"
+    }
+  ]
+}
